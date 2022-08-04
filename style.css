@@ -6,7 +6,7 @@
   }
   body {
     height: 100vh;
-    background: linear-gradient(to bottom, #cc0099 0%, #ffff00 100%);
+    background: linear-gradient(to bottom, #3d00cc 0%, #d64e92 100%);
   }
   .container {
     background-color: #ffffff;
@@ -31,7 +31,7 @@
     width: 100%;
     font-size: 1.35em;
     padding: 0.4em;
-    border: 1px solid #a0a0a0;
+    border: 1px solid #e91a1a;
     border-radius: 0.2em;
   }
   .input-wrapper label {
